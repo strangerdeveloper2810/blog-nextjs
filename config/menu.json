@@ -26,20 +26,16 @@
   ],
   "footer": [
     {
-      "name": "Home",
+      "name": "Trang chủ",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Về tôi",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Liên hệ",
       "url": "/contact"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "#"
     }
   ]
 }
